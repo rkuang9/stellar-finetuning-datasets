@@ -1,5 +1,5 @@
-# Finetuning datasets for LLMs
-Finetuning datasets small enough for browser LLM training. These are available in [Stellar](https://stellarapp.net/gpt) for in browser LLM training.
+# Finetuning Datasets For LLMs
+Finetuning datasets for LLM training. These are available in [Stellar](https://stellarapp.net/gpt) for in-browser LLM training.
 
 |                                                                                         | Samples |
 |-----------------------------------------------------------------------------------------|---------|
